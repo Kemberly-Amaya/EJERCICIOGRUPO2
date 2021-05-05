@@ -34,7 +34,7 @@ namespace EJERCICIOGRUPO2
             }
             else
             {
-                MessageBox.Show("Lo siento no reconosco el dato, por favor escriba su género");
+                MessageBox.Show("Lo siento no reconozco el dato, por favor escriba su género");
             }
 
         }
