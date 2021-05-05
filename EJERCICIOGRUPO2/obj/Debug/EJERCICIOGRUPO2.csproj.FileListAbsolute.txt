@@ -1,0 +1,10 @@
+C:\Users\kembe\OneDrive\Documentos\PrograI\EJERCICIOGRUPO2\bin\Debug\EJERCICIOGRUPO2.exe.config
+C:\Users\kembe\OneDrive\Documentos\PrograI\EJERCICIOGRUPO2\bin\Debug\EJERCICIOGRUPO2.exe
+C:\Users\kembe\OneDrive\Documentos\PrograI\EJERCICIOGRUPO2\bin\Debug\EJERCICIOGRUPO2.pdb
+C:\Users\kembe\OneDrive\Documentos\PrograI\EJERCICIOGRUPO2\obj\Debug\EJERCICIOGRUPO2.csprojAssemblyReference.cache
+C:\Users\kembe\OneDrive\Documentos\PrograI\EJERCICIOGRUPO2\obj\Debug\EJERCICIOGRUPO2.Form1.resources
+C:\Users\kembe\OneDrive\Documentos\PrograI\EJERCICIOGRUPO2\obj\Debug\EJERCICIOGRUPO2.Properties.Resources.resources
+C:\Users\kembe\OneDrive\Documentos\PrograI\EJERCICIOGRUPO2\obj\Debug\EJERCICIOGRUPO2.csproj.GenerateResource.cache
+C:\Users\kembe\OneDrive\Documentos\PrograI\EJERCICIOGRUPO2\obj\Debug\EJERCICIOGRUPO2.csproj.CoreCompileInputs.cache
+C:\Users\kembe\OneDrive\Documentos\PrograI\EJERCICIOGRUPO2\obj\Debug\EJERCICIOGRUPO2.exe
+C:\Users\kembe\OneDrive\Documentos\PrograI\EJERCICIOGRUPO2\obj\Debug\EJERCICIOGRUPO2.pdb
